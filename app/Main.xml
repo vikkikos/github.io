@@ -1,0 +1,48 @@
+﻿<project version="2.9" name="SecurSense prototype" ID="E9DCE12B-A0F1-4C2A-8A01-85E62A4AC96D">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1400,2900)" backgroundColor="4294967295" fontSize="14" fontFamily="Segoe UI" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Home" ID="54EBC4E0-D618-4BAF-A1E4-2357F8137CBA" expanded="True" code="f1DXIUInPN" thumbCode="EyO3ZGZRyk" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+        <image key="8D87F0B6E067D29DE1E9AC9BADB84F13.svg"/>
+        <image key="A615B96B733DD98ED88FAF889CD95241.svg"/>
+        <image key="369D4C69A684374A4631F330FC093DD5.svg"/>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+        <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
+        <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+        <image key="4B1F1033188A54BDA32C6005C2458136.svg"/>
+        <image key="3D2120E18F527C36ACD686C881C52365.svg"/>
+        <image key="8D047A611DE469657AB39FE1F8ABA3BB.svg"/>
+        <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
+      </images>
+      <page name="Popup" ID="B1CFDEC1-59A1-46EF-9FC4-C90540309126" expanded="False" code="H4VZB3kBrf" thumbCode="H4VZB3kBrf" status="psWhite" isfolder="False" isshownode="True"/>
+    </page>
+  </pages>
+  <trash>
+    <page name="Page1" ID="61240AB2-B952-47AA-8C1A-0FE0EB43AAEA" expanded="False" code="Z9QQHvCVTq" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters>
+    <master name="Master" ID="68741373-3206-4EB7-B828-AC4D6D9F1AA1" code="BcplCOWqB1" status="psWhite" createDate="2018-08-25 22:48:49">
+      <refPages/>
+    </master>
+  </masters>
+  <images>
+    <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+    <image key="8D87F0B6E067D29DE1E9AC9BADB84F13.svg"/>
+    <image key="A615B96B733DD98ED88FAF889CD95241.svg"/>
+    <image key="369D4C69A684374A4631F330FC093DD5.svg"/>
+    <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+    <image key="282331BE75C40FB6D299F787B7BFD38F.svg"/>
+    <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+    <image key="4B1F1033188A54BDA32C6005C2458136.svg"/>
+    <image key="3D2120E18F527C36ACD686C881C52365.svg"/>
+    <image key="8D047A611DE469657AB39FE1F8ABA3BB.svg"/>
+    <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
+  </images>
+</project>

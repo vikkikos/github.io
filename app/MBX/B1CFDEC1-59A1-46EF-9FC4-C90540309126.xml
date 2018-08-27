@@ -1,0 +1,22 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="B1CFDEC1-59A1-46EF-9FC4-C90540309126" platform="MtWeb" defaultW="1400" defaultH="2900" measureW="1400" measureH="200" mobileScreenScale="0">
+  <controls controlCount="2">
+    <control controlID="970D7F6D-7E54-4F99-97AD-DC1093CC8CCD" controlTypeID="Shape" x="0" y="0" w="1400" h="200" zOrder="0">
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CA9DB9EB-7FCB-4142-9340-F44F121A752A" controlTypeID="TextArea" x="523" y="60" w="354" h="80" zOrder="1">
+      <font family="Montserrat" displayName="Montserrat+Regular" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Thank+you!+We'll+reach+out+to+you+shortly.%0D%0A%0D%0ABest%2C%0D%0ASecurSense+team++</text>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
